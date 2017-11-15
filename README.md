@@ -1,5 +1,9 @@
 # Hinterland-skin
 
+A skin designed to look smooth and subdued, but handle responsively.
+
+Fonts used: jahud, Product Sans, Open Sans
+
 ## Install
 1. Navigate to osu folder
 2. Go to skins folder
