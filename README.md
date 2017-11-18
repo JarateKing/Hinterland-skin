@@ -11,4 +11,5 @@ Fonts used: jahud, Product Sans, Open Sans
 
 ## Notes
 Only skinned for osu!std
+
 Intended for 1366x768
